@@ -2,14 +2,6 @@
 
 ###  About Me
 
-* 🔭 I’m currently working on **UnderratedAcademia** and **https://www.underratedacademia.com/**
-* 🌱 I’m currently learning **scalable backend architecture, system design, and advanced DB optimization**
-* 👯 I’m looking to collaborate on **full-stack projects, especially EdTech & SaaS platforms**
-* 🤔 I’m looking for help with **building production-grade systems & performance optimization**
-* 💬 Ask me about **React, Next.js, Tailwind CSS, PostgreSQL, or full-stack development**
-* 📫 How to reach me: **anuragsharma.nits@gmail.com**
-* 😄 Pronouns: **He/Him**
-* ⚡ Fun fact: **I love building real-world products from scratch and shipping them 🚀**
 *  I’m currently working on **UnderratedAcademia** and **https://www.underratedacademia.com/**
 *  I’m currently learning **scalable backend architecture, system design, and advanced DB optimization**
 *  I’m looking to collaborate on **full-stack projects, especially EdTech & SaaS platforms**
